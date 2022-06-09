@@ -14,13 +14,17 @@ gem "jbuilder"
 gem "redis", "~> 4.0"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
+gem 'faraday'
 
 group :development, :test do
-  gem 'pry'
   gem 'rspec-rails'
-  gem 'faker'
-  gem 'shoulda-matchers', '> 4.0'
+  gem 'capybara'
+  gem 'launchy'
+  gem 'pry'
+  gem 'orderly'
   gem 'simplecov'
+  gem 'shoulda-matchers', '~> 3.1'
+  gem 'figaro'
 end
 
 group :development do

@@ -5,11 +5,15 @@ RSpec.describe 'Welcome Page' do
  end
 
  it 'exists' do
-   expect().to be_a
- end
+    visit '/welcome'
 
- it 'has attributes' do
+    fill_in('Monthly car payment', with: 330)
+    fill_in('Insurance cost', with: 600)
+    fill_in('Miles driven this month', with: 1200)
+    fill_in('State you live in', with: 'CO')
+    click_button('Calculate Price')
 
-   expect().to eq()
+    expect(current_path).to eq('/welcome')
+
  end
 end

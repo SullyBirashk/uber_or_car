@@ -1,0 +1,14 @@
+<h1>Buy a Car or Take Uber?</h1>
+<p><b>Why Use This App?</b>
+Are you spending a lot of money on your car with payments, insurance, gas, etc? If Yes, this app asks you a few questions then calculates how much you spend monthly on a car. Then it also shows you how much you would've spent taking an Uber. This can help clear your mind on weather its cheaper to own a car or cheaper to Uber!</p>
+<%= form_with url: "/welcome", method: :post, local: true do |form| %>
+<%= form.label :monthly_car_payment %>
+<%= form.number_field :monthly_car_payment %>
+<%= form.label :insurance_cost %>
+<%= form.number_field :insurance_cost %>
+<%= form.label :miles_driven_this_month %>
+<%= form.number_field :miles_driven_this_month %>
+<%= form.label :state_you_live_in %>(Example: CO)
+<%= form.text_field :state_you_live_in %>
+<%= form.submit "Calculate Price" %>
+<% end %>
