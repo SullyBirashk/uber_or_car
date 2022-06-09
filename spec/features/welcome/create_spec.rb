@@ -14,12 +14,6 @@ RSpec.describe 'Welcome Create' do
    fill_in('State you live in', with: 'CO')
    click_button('Calculate Price')
 
-   expect(current_path).to eq('/welcome')
-   expect().to be_a
+   expect(current_path).to eq("/estimate")
  end
-
- # it 'has attributes' do
- #
- #   expect().to eq()
- # end
 end
