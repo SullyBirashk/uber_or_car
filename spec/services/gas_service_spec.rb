@@ -3,13 +3,11 @@ require 'rails_helper'
 RSpec.describe GasService do
 
  it 'returns gas price api' do
-   search = GasService.get_state_prices('CO')
-   
-   expect(search).to be_a Hash
-   expect(search).to have_key(:result)
-   expect(search[:result]).to be_a Hash
-   expect(search[:result]).to have_key(:state)
-   expect(search[:result][:state]).to be_a Hash
+   search = GasService.get_state_price('Colorado')
+
+   expect(search).to_not be_nil
+   expect(search.name).to be_a String
+   expect(search.regular).to be_a String
  end
 
  # it 'returns example' do
