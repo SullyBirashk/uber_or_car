@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  resources :welcome, only: [:index, :create]
+  resources :estimate, only: [:new]
+
+  get '/estimate', to: 'estimate#show'
 end

@@ -1,0 +1,13 @@
+<h1>Uber or Car Calculator</h1>
+
+<h2>Car Payment Total: $<%= @car_total_cost %></h2>
+<p>Car Monthly Payment: $<%= @car_estimator.payment %></p>
+<p>Insurance Monthly Payment: $<%= @car_estimator.insurance %></p>
+<p>Miles Driven: <%= @car_estimator.miles %> Miles</p>
+<p>Gas Price in <%= @car_estimator.state %>: $<%= @car_estimator.gas_price %></p>
+<p>MPG: $<%= @car_estimator.avg_mpg %> mpg (Used Avarage MPG by https://afdc.energy.gov/data/10310)</p>
+<p>Maintenance Cost Per Month:  $<%= @car_estimator.maintenance / 12 %> (Used Average Maintenance Cost)</p>
+<hr>
+<h2>Uber Payment Total: $<%= @uber_total_cost %></h2>
+<p>Miles Driven: <%= @uber_estimator.miles %> Miles</p>
+<p>Uber Price Per Mile: $<%= @uber_estimator.avg_uber_ppm %> (Used Average Uber Cost Per Mile in US)</p>
