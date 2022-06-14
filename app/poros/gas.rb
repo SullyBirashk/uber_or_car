@@ -1,12 +1,9 @@
 class Gas
-  attr_reader :name, :regular, :medium, :premium, :diesel
+  attr_reader :name, :regular
 
   def initialize(state)
-    @name = state[:result][:state][:name]
-    @regular = state[:result][:state][:gasoline]
-    @medium = state[:result][:state][:midGrade]
-    @premium = state[:result][:state][:premium]
-    @diesel = state[:result][:state][:diesel]
+    @name = state[:name]
+    @regular = state[:gasoline]
   end
 
 end
