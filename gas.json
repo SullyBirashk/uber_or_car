@@ -1,0 +1,413 @@
+{
+    "success": true,
+    "result": [
+        {
+            "currency": "usd",
+            "name": "Alaska",
+            "gasoline": "5.569",
+            "midGrade": "5.739",
+            "premium": "5.931",
+            "diesel": "5.845"
+        },
+        {
+            "currency": "usd",
+            "name": "Alabama",
+            "gasoline": "4.631",
+            "midGrade": "4.944",
+            "premium": "5.311",
+            "diesel": "5.635"
+        },
+        {
+            "currency": "usd",
+            "name": "Arkansas",
+            "gasoline": "4.538",
+            "midGrade": "4.841",
+            "premium": "5.162",
+            "diesel": "5.316"
+        },
+        {
+            "currency": "usd",
+            "name": "Arizona",
+            "gasoline": "5.316",
+            "midGrade": "5.582",
+            "premium": "5.851",
+            "diesel": "5.819"
+        },
+        {
+            "currency": "usd",
+            "name": "California",
+            "gasoline": "6.436",
+            "midGrade": "6.623",
+            "premium": "6.765",
+            "diesel": "6.991"
+        },
+        {
+            "currency": "usd",
+            "name": "Colorado",
+            "gasoline": "4.875",
+            "midGrade": "5.204",
+            "premium": "5.500",
+            "diesel": "5.516"
+        },
+        {
+            "currency": "usd",
+            "name": "Connecticut",
+            "gasoline": "4.982",
+            "midGrade": "5.340",
+            "premium": "5.702",
+            "diesel": "6.166"
+        },
+        {
+            "currency": "usd",
+            "name": "District of Columbia",
+            "gasoline": "5.262",
+            "midGrade": "5.715",
+            "premium": "6.029",
+            "diesel": "6.176"
+        },
+        {
+            "currency": "usd",
+            "name": "Delaware",
+            "gasoline": "4.992",
+            "midGrade": "5.397",
+            "premium": "5.667",
+            "diesel": "5.958"
+        },
+        {
+            "currency": "usd",
+            "name": "Florida",
+            "gasoline": "4.891",
+            "midGrade": "5.243",
+            "premium": "5.561",
+            "diesel": "5.720"
+        },
+        {
+            "currency": "usd",
+            "name": "Georgia",
+            "gasoline": "4.484",
+            "midGrade": "4.822",
+            "premium": "5.177",
+            "diesel": "5.530"
+        },
+        {
+            "currency": "usd",
+            "name": "Hawaii",
+            "gasoline": "5.532",
+            "midGrade": "5.724",
+            "premium": "5.986",
+            "diesel": "6.065"
+        },
+        {
+            "currency": "usd",
+            "name": "Iowa",
+            "gasoline": "4.735",
+            "midGrade": "4.896",
+            "premium": "5.359",
+            "diesel": "5.337"
+        },
+        {
+            "currency": "usd",
+            "name": "Idaho",
+            "gasoline": "5.097",
+            "midGrade": "5.269",
+            "premium": "5.492",
+            "diesel": "5.762"
+        },
+        {
+            "currency": "usd",
+            "name": "Illinois",
+            "gasoline": "5.562",
+            "midGrade": "5.997",
+            "premium": "6.364",
+            "diesel": "5.670"
+        },
+        {
+            "currency": "usd",
+            "name": "Indiana",
+            "gasoline": "5.221",
+            "midGrade": "5.569",
+            "premium": "5.900",
+            "diesel": "5.887"
+        },
+        {
+            "currency": "usd",
+            "name": "Kansas",
+            "gasoline": "4.664",
+            "midGrade": "4.917",
+            "premium": "5.189",
+            "diesel": "5.274"
+        },
+        {
+            "currency": "usd",
+            "name": "Kentucky",
+            "gasoline": "4.795",
+            "midGrade": "5.144",
+            "premium": "5.460",
+            "diesel": "5.769"
+        },
+        {
+            "currency": "usd",
+            "name": "Louisiana",
+            "gasoline": "4.551",
+            "midGrade": "4.866",
+            "premium": "5.199",
+            "diesel": "5.338"
+        },
+        {
+            "currency": "usd",
+            "name": "Massachusetts",
+            "gasoline": "5.048",
+            "midGrade": "5.408",
+            "premium": "5.697",
+            "diesel": "6.199"
+        },
+        {
+            "currency": "usd",
+            "name": "Maryland",
+            "gasoline": "5.019",
+            "midGrade": "5.484",
+            "premium": "5.760",
+            "diesel": "5.988"
+        },
+        {
+            "currency": "usd",
+            "name": "Maine",
+            "gasoline": "5.082",
+            "midGrade": "5.401",
+            "premium": "5.708",
+            "diesel": "6.176"
+        },
+        {
+            "currency": "usd",
+            "name": "Michigan",
+            "gasoline": "5.219",
+            "midGrade": "5.550",
+            "premium": "5.895",
+            "diesel": "5.789"
+        },
+        {
+            "currency": "usd",
+            "name": "Minnesota",
+            "gasoline": "4.758",
+            "midGrade": "4.988",
+            "premium": "5.339",
+            "diesel": "5.449"
+        },
+        {
+            "currency": "usd",
+            "name": "Missouri",
+            "gasoline": "4.679",
+            "midGrade": "4.946",
+            "premium": "5.248",
+            "diesel": "5.245"
+        },
+        {
+            "currency": "usd",
+            "name": "Mississippi",
+            "gasoline": "4.524",
+            "midGrade": "4.826",
+            "premium": "5.181",
+            "diesel": "5.360"
+        },
+        {
+            "currency": "usd",
+            "name": "Montana",
+            "gasoline": "4.905",
+            "midGrade": "5.167",
+            "premium": "5.435",
+            "diesel": "5.709"
+        },
+        {
+            "currency": "usd",
+            "name": "North Carolina",
+            "gasoline": "4.671",
+            "midGrade": "5.003",
+            "premium": "5.355",
+            "diesel": "5.753"
+        },
+        {
+            "currency": "usd",
+            "name": "North Dakota",
+            "gasoline": "4.768",
+            "midGrade": "5.071",
+            "premium": "5.372",
+            "diesel": "5.484"
+        },
+        {
+            "currency": "usd",
+            "name": "Nebraska",
+            "gasoline": "4.755",
+            "midGrade": "4.891",
+            "premium": "5.349",
+            "diesel": "5.274"
+        },
+        {
+            "currency": "usd",
+            "name": "New Hampshire",
+            "gasoline": "4.996",
+            "midGrade": "5.347",
+            "premium": "5.663",
+            "diesel": "6.188"
+        },
+        {
+            "currency": "usd",
+            "name": "New Jersey",
+            "gasoline": "5.059",
+            "midGrade": "5.486",
+            "premium": "5.722",
+            "diesel": "6.092"
+        },
+        {
+            "currency": "usd",
+            "name": "New Mexico",
+            "gasoline": "4.825",
+            "midGrade": "5.136",
+            "premium": "5.414",
+            "diesel": "5.582"
+        },
+        {
+            "currency": "usd",
+            "name": "Nevada",
+            "gasoline": "5.657",
+            "midGrade": "5.882",
+            "premium": "6.074",
+            "diesel": "6.019"
+        },
+        {
+            "currency": "usd",
+            "name": "New York",
+            "gasoline": "5.037",
+            "midGrade": "5.402",
+            "premium": "5.700",
+            "diesel": "6.307"
+        },
+        {
+            "currency": "usd",
+            "name": "Ohio",
+            "gasoline": "5.050",
+            "midGrade": "5.390",
+            "premium": "5.734",
+            "diesel": "5.965"
+        },
+        {
+            "currency": "usd",
+            "name": "Oklahoma",
+            "gasoline": "4.641",
+            "midGrade": "4.952",
+            "premium": "5.183",
+            "diesel": "5.250"
+        },
+        {
+            "currency": "usd",
+            "name": "Oregon",
+            "gasoline": "5.536",
+            "midGrade": "5.710",
+            "premium": "5.911",
+            "diesel": "6.152"
+        },
+        {
+            "currency": "usd",
+            "name": "Pennsylvania",
+            "gasoline": "5.069",
+            "midGrade": "5.395",
+            "premium": "5.670",
+            "diesel": "6.179"
+        },
+        {
+            "currency": "usd",
+            "name": "Rhode Island",
+            "gasoline": "5.020",
+            "midGrade": "5.462",
+            "premium": "5.753",
+            "diesel": "6.271"
+        },
+        {
+            "currency": "usd",
+            "name": "South Carolina",
+            "gasoline": "4.608",
+            "midGrade": "4.940",
+            "premium": "5.287",
+            "diesel": "5.609"
+        },
+        {
+            "currency": "usd",
+            "name": "South Dakota",
+            "gasoline": "4.719",
+            "midGrade": "4.868",
+            "premium": "5.306",
+            "diesel": "5.345"
+        },
+        {
+            "currency": "usd",
+            "name": "Tennessee",
+            "gasoline": "4.642",
+            "midGrade": "4.982",
+            "premium": "5.327",
+            "diesel": "5.633"
+        },
+        {
+            "currency": "usd",
+            "name": "Texas",
+            "gasoline": "4.664",
+            "midGrade": "4.982",
+            "premium": "5.297",
+            "diesel": "5.258"
+        },
+        {
+            "currency": "usd",
+            "name": "Utah",
+            "gasoline": "5.016",
+            "midGrade": "5.212",
+            "premium": "5.413",
+            "diesel": "5.675"
+        },
+        {
+            "currency": "usd",
+            "name": "Virginia",
+            "gasoline": "4.864",
+            "midGrade": "5.267",
+            "premium": "5.596",
+            "diesel": "5.831"
+        },
+        {
+            "currency": "usd",
+            "name": "Vermont",
+            "gasoline": "5.045",
+            "midGrade": "5.383",
+            "premium": "5.751",
+            "diesel": "6.153"
+        },
+        {
+            "currency": "usd",
+            "name": "Washington",
+            "gasoline": "5.546",
+            "midGrade": "5.730",
+            "premium": "5.921",
+            "diesel": "6.210"
+        },
+        {
+            "currency": "usd",
+            "name": "Wisconsin",
+            "gasoline": "4.919",
+            "midGrade": "5.302",
+            "premium": "5.692",
+            "diesel": "5.410"
+        },
+        {
+            "currency": "usd",
+            "name": "West Virginia",
+            "gasoline": "4.914",
+            "midGrade": "5.193",
+            "premium": "5.465",
+            "diesel": "5.912"
+        },
+        {
+            "currency": "usd",
+            "name": "Wyoming",
+            "gasoline": "4.757",
+            "midGrade": "4.988",
+            "premium": "5.247",
+            "diesel": "5.642"
+        }
+    ]
+}
