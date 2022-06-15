@@ -24,7 +24,6 @@ RSpec.describe 'Estimate Show' do
    click_button('Calculate Price')
 
    expect(current_path).to eq("/estimate")
-   save_and_open_page
    expect(page).to have_content("Car Payment")
    expect(page).to have_content("Uber Cost")
  end
