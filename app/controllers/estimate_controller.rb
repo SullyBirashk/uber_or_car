@@ -1,7 +1,6 @@
 class EstimateController < ApplicationController
 
  def new
-
  end
 
  def show
@@ -16,5 +15,4 @@ class EstimateController < ApplicationController
    @uber_estimator = UberEstimator.new(params[:miles_driven_this_month])
    @uber_total_cost = @uber_estimator.total
  end
-
 end
