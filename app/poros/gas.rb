@@ -5,5 +5,4 @@ class Gas
     @name = state[:name]
     @regular = state[:gasoline]
   end
-
 end
