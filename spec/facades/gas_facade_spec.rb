@@ -8,31 +8,4 @@ RSpec.describe GasFacade do
     expect(data.name).to be_a String
     expect(data.regular).to be_a String
   end
-
-  # it 'returns example' do
-  #  example = GasFacade.method_here
-  #  example.each do |ex|
-  #    expect(ex).to be_a PoroName
-  #    expect(ex.attribute).to be_a String
-  #    expect(ex.attribute).to_not be_nil
-  #   end
-  # end
-  #
-  # it 'returns example' do
-  #  example = GasFacade.method_here
-  #  example.each do |ex|
-  #    expect(ex).to be_a PoroName
-  #    expect(ex.attribute).to be_a String
-  #    expect(ex.attribute).to_not be_nil
-  #   end
-  # end
-  #
-  # it 'returns example' do
-  #  example = GasFacade.method_here
-  #  example.each do |ex|
-  #    expect(ex).to be_a PoroName
-  #    expect(ex.attribute).to be_a String
-  #    expect(ex.attribute).to_not be_nil
-  #   end
-  # end
 end
