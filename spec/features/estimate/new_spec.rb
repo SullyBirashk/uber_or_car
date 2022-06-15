@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe 'Estimate Page' do
-
  it 'exists' do
     visit '/estimate/new'
 
@@ -12,6 +11,5 @@ RSpec.describe 'Estimate Page' do
     click_button('Calculate Price')
 
     expect(current_path).to eq('/estimate')
-
  end
 end
