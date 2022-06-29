@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe GasService do
-
  it 'returns gas price api' do
    search = GasService.get_state_price('Colorado')
 

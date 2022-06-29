@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe 'Estimate Show' do
-
  it 'exists' do
    visit '/estimate/new'
 
@@ -13,7 +12,7 @@ RSpec.describe 'Estimate Show' do
 
    expect(current_path).to eq("/estimate")
  end
-
+ 
  it "calculates car total" do
    visit '/estimate/new'
 
